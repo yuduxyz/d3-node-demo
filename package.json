@@ -1,0 +1,13 @@
+{
+  "name": "d3-node-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yuduxyz/d3-node-demo.git",
+  "author": "yuduxyz <yzxie@foxmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "d3-node": "^2.1.0",
+    "hz-d3": "http://git.sz.haizhi.com/xieyuzhong/hz-d3.git",
+    "svg2png": "^4.1.1"
+  }
+}
